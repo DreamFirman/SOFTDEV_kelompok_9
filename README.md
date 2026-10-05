@@ -37,6 +37,8 @@ produk dan stok, serta pencatatan transaksi secara terkomputerisasi.
 - Vite
 - Tailwind CSS
 
+link figma https://www.figma.com/design/jpS3ly0BZqxTw1IMUfT25y/softdes?node-id=0-1&t=28mAeFxe3T1M8SbT-1
+
 ### Backend
 - Node.js
 - Express.js
