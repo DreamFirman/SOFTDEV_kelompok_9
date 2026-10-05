@@ -33,7 +33,7 @@ produk dan stok, serta pencatatan transaksi secara terkomputerisasi.
 ## Teknologi yang Digunakan
 
 ### Frontend
-- React
+- Kotlin
 - Vite
 - Tailwind CSS
 
