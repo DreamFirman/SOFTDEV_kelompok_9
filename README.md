@@ -51,7 +51,7 @@ Aplikasi ini dirancang untuk mempermudah proses kasir, pengelolaan produk, penga
 ## Environment
 - Laragon
 
-### Tools
+## Tools
 - Visual Studio Code
 - Git dan GitHub
 - Figma
