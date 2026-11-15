@@ -2,10 +2,7 @@
 **Project Mata Kuliah Software Development**
 
 ## Nama Anggota
-
-1. [Firman Rahmat Nur] - [QA, DevOps & Integration Specialist]
-2. [Nasreyhan Tri Ahimza] - [Backend & Database Engineer]
-3. [Winda Alfi Yanuarti] - [Frontend & UI/UX Specialist]
+1.[Winda Alfi Yanuarti] - [Frontend & UI/UX Specialist]
 
 ## Deskripsi Singkat Proyek
 
