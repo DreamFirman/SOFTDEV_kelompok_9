@@ -13,7 +13,7 @@ KasirKita merupakan aplikasi berbasis web yang dikembangkan untuk membantu penge
 
 Aplikasi ini dirancang untuk mempermudah proses kasir, pengelolaan produk, pengaturan harga, pengelolaan stok gudang dan area kasir, serta pencatatan transaksi secara terkomputerisasi.
 
-## Fitur Utama
+## Fitur yang Dikembangkan
 
 - Login dan Register
 - Hak akses berdasarkan role (Administrator dan Customer)
@@ -47,6 +47,8 @@ Aplikasi ini dirancang untuk mempermudah proses kasir, pengelolaan produk, penga
 
 ### Database
 - MySQL 8
+
+## Environment
 - Laragon
 
 ### Tools
@@ -71,8 +73,10 @@ SOFTDEV_kelompok_9/
 │   │   ├── App.jsx
 │   │   ├── main.jsx
 │   │   └── styles.css
-│   ├── public/
-│   ├── package.json
+│   ├── index.html
+|   ├── package-lock.json
+|   ├── package.json
+|   ├── README.md
 │   └── vite.config.js
 │
 ├── backend/
@@ -101,8 +105,7 @@ SOFTDEV_kelompok_9/
 
 1. Buka Laragon.
 2. Jalankan MySQL.
-3. Buat database dengan nama `kasirkita`.
-4. Siapkan struktur tabel database.
+3. Pastikan database `kasirkita` sudah tersedia
 
 ### 2. Menjalankan Backend
 
@@ -146,4 +149,4 @@ https://github.com/DreamFirman/SOFTDEV_kelompok_9
 
 ## Status Pengembangan
 
-KasirKita masih dalam tahap pengembangan. Frontend awal, backend, dan koneksi database telah disiapkan. Integrasi fitur aplikasi akan dikembangkan secara bertahap.
+KasirKita masih dalam tahap pengembangan. Frontend awal, backend, dan koneksi database telah disiapkan. Beberapa fitur masih dalam tahap pengembangan dan akan diintegrasikan secara bertahap.
