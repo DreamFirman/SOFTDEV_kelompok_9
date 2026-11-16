@@ -2,7 +2,10 @@
 **Project Mata Kuliah Software Development**
 
 ## Nama Anggota
-1.[Winda Alfi Yanuarti] - [Frontend & UI/UX Specialist]
+
+1. [Firman Rahmat Nur] - [BAckend, Cloud DB & DevOps Engineer]
+2. [Winda Alfi Yanuarti] - [Frontend Developer 7 Quality assurance Specialist]
+
 
 ## Deskripsi Singkat Proyek
 
